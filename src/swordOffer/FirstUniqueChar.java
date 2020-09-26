@@ -58,5 +58,6 @@ public class FirstUniqueChar {
         FirstUniqueChar f = new FirstUniqueChar();
         String s = "google";
         int res = f.FirstNotRepeatingChar_1(s);
+        System.out.println(res);
     }
 }

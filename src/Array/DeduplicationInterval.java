@@ -1,16 +1,20 @@
 package Array;
 
-import java.text.DecimalFormat;
 import java.util.Arrays;
 import java.util.Comparator;
 import java.util.Scanner;
 
+/**
+ * 题目：给定若干个重复的时间区间，求这种时间区间包含的长度
+ * 思路：按照所有时间区间的开始时间排序，
+ * 1.当前区间的start <= 上一区间的end，则当前区间和上一时间区间可以合并为[preStart, curEnd]，
+ * 2.反之不能当前区间不能和之前的区间合并，当前区间与前一时间区间没有重复区间，则计算前面区间的时间并更新总时间，当前时间更新为[start, end]，
+ * 3.重复1，2步骤
+ * 4.加上最后一个求得的时间区间的时长
+ */
 public class DeduplicationInterval {
 
     public static void main(String[] args) {
-        DecimalFormat df = new DecimalFormat("00000000");
-        System.out.println(df.format(1101));
-//        System.out.println(df.format("011"));
         Scanner in = new Scanner(System.in);
         int n = in.nextInt();
         int[][] time = new int[n][2];
@@ -23,6 +27,9 @@ public class DeduplicationInterval {
     }
 
     private static int getTimeSum(int[][] time) {
+        if (time.length == 0) {
+            return 0;
+        }
         Arrays.sort(time, new Comparator<int[]>() {
             @Override
             public int compare(int[] o1, int[] o2) {

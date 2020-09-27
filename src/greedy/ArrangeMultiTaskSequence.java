@@ -45,6 +45,7 @@ public class ArrangeMultiTaskSequence {
         // 图用map结构体，(节点,下一节点的集合)
         HashMap<Integer, List<Integer>> graph = new HashMap<>();
         int[] inDegree = new int[num + 1];
+
         for (int i = 0; i < n; i++) {
             int preSeq = in.nextInt();
             int curSeq = in.nextInt();

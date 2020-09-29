@@ -58,7 +58,6 @@ public class ArrangeMultiTaskSequence {
             }
             inDegree[curSeq]++;
         }
-
         System.out.println(processTask(inDegree, tasks, graph));
     }
 

@@ -31,4 +31,27 @@ public class RemoveNthFromEnd {
         }
         return dummpy.next;
     }
+
+    /**
+     *  双指针法，该题最优解法
+     * */
+    public ListNode removeNthFromEndTwoPoint(ListNode head, int n) {
+        // 快慢指针
+        // 注意删除的可能是第一个,加哑结点指向head，就可以省去判断head节点
+        if (head == null) {
+            return head;
+        }
+        ListNode dummpy = new ListNode(0, head);
+        ListNode fastNode = head;
+        ListNode slowNode = dummpy;
+        for (int i = 0; i < n; i++) {
+            fastNode = fastNode.next;
+        }
+        while (fastNode != null) {
+            fastNode = fastNode.next;
+            slowNode = slowNode.next;
+        }
+        slowNode.next = slowNode.next.next;
+        return dummpy.next;
+    }
 }

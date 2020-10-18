@@ -11,26 +11,24 @@ import java.util.Stack;
 public class RemoveNthFromEnd {
     public ListNode removeNthFromEnd(ListNode head, int n) {
         // 遍历一遍，用栈存，然后弹n个，
-        // 注意删除的可能是第一个
-        if (head == null) {
-            return head;
-        }
-        ListNode root = head;
+        // 注意删除的可能是第一个,加哑结点指向head，就可以省去判断head节点
+        ListNode dummpy = new ListNode();
+        dummpy.next = head;
         Stack<ListNode> stack = new Stack<>();
         while (head != null) {
             stack.push(head);
             head = head.next;
         }
-        ListNode nthFromEnd = null;
         while (n > 0) {
-            nthFromEnd = stack.pop();
+            stack.pop();
             n--;
         }
         if (!stack.isEmpty()) {
-            stack.peek().next = nthFromEnd.next;
-            return root;
+            ListNode preNode = stack.peek();
+            preNode.next = preNode.next.next;
         } else {
-            return root.next;
+            dummpy.next = dummpy.next.next; // 删的是第一个，
         }
+        return dummpy.next;
     }
 }

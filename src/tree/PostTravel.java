@@ -1,5 +1,7 @@
 package tree;
 
+import commonclass.TreeNode;
+
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Stack;
@@ -8,24 +10,6 @@ import java.util.Stack;
  * Definition for a binary tree node.
  * 后序遍历二叉树非递归
  */
-class TreeNode {
-    int val;
-    TreeNode left;
-    TreeNode right;
-
-    TreeNode() {
-    }
-
-    TreeNode(int val) {
-        this.val = val;
-    }
-
-    TreeNode(int val, TreeNode left, TreeNode right) {
-        this.val = val;
-        this.left = left;
-        this.right = right;
-    }
-}
 
 public class PostTravel {
     public List<Integer> postorderTraversal(TreeNode root) {

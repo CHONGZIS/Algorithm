@@ -35,4 +35,54 @@ public class ReArrangeLikedList {
         }
         list.get(right).next = null; // 最后一个指向null，不然会造成环
     }
+
+
+    public void reorderList_new(ListNode head) {
+        // 1.找到中点，2.反转后半段链表，3.合并两个链表
+        if (head == null) {
+            return;
+        }
+        ListNode node = head;
+        ListNode mid = findMiddleNode(node);
+        ListNode second = reverse(mid.next);
+        mid.next = null;
+        merge(head, second);
+    }
+
+    public ListNode findMiddleNode(ListNode head) {
+        ListNode slow = head;
+        ListNode fast = head;
+        while (fast.next != null && fast.next.next != null) {
+            slow = slow.next;
+            fast = fast.next.next;
+        }
+        return slow;
+    }
+
+    public ListNode reverse(ListNode head) {
+        ListNode pre = null;
+        ListNode tmp = null;
+        while (head != null) {
+            tmp = head.next;
+            head.next = pre;
+            pre = head;
+            head = tmp;
+        }
+        return pre;
+    }
+
+    public void merge(ListNode h, ListNode h2) {
+        ListNode h1 = h;
+        while(h1 != null && h2 != null) {
+            ListNode tmp1 = h1.next;
+            ListNode tmp2 = h2.next;
+            h1.next = h2;
+            if (tmp1 == null) {
+                break;
+            }
+            h2.next = tmp1;
+            h1 = tmp1;
+            h2 = tmp2;
+        }
+    }
 }

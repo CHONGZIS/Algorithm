@@ -7,6 +7,7 @@ public class LongPrintInput {
         String typed = "vttkgnn";
         System.out.println(isLongPressedName(name, typed));
     }
+
     public static boolean isLongPressedName(String name, String typed) {
 
         char[] names = name.toCharArray();
@@ -32,5 +33,22 @@ public class LongPrintInput {
             j++;
         }
         return i == names.length && j == typeds.length;
+    }
+
+    public boolean isLongPressedNameOptimal(String name, String typed) {
+        // 看了题解发现自己思路太蠢，name[i]!=typed[j]的时候，typed完全可以typed[j] == typed[j-1]，只j++往右走，
+        // 有可能i到头了，j还剩下一大串，所以while判断j<typed.length，
+        int i = 0, j = 0;
+        while (j < typed.length()) {
+            if (i < name.length() && name.charAt(i) == typed.charAt(j)) {
+                i++;
+                j++;
+            } else if (j > 0 && typed.charAt(j) == typed.charAt(j - 1)) {
+                j++;
+            } else {
+                return false;
+            }
+        }
+        return i == name.length();
     }
 }

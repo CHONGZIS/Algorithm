@@ -1,0 +1,1192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ebdf4ee0-dfe2-4f6f-90e5-fe2fbe045a9e" name="Default" comment="进入stash缓存区">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/Completion/MaxProfit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/Completion/MaximumGenerated.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/Completion/MinDeletions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/array/CountRangeSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/array/CreateSortedArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/array/DeduplicationInterval$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/array/DeduplicationInterval.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/array/FindMinArrowShots.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/array/InsertInterval.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/array/KClosest$Point.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/array/KClosest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/array/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/array/ReconstructQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/array/ReversePairs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/array/SmallerNumbersThanCurrent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/array/WaysToMakeFair.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/commonclass/ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/commonclass/TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/greedy/ArrangeMultiTaskSequence$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/greedy/ArrangeMultiTaskSequence$Task.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/greedy/ArrangeMultiTaskSequence.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/greedy/IPO$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/greedy/IPO$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/greedy/IPO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/greedy/LessMoney$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/greedy/LessMoney$MaxHeapComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/greedy/LessMoney.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/greedy/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/likedlist/IsPalindrome.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/likedlist/ReArrangeLikedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/likedlist/RemoveNthFromEnd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/string/GetSmallestLString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/string/LongPrintInput.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/string/PartitionLabels.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/swordOffer/FirstUniqueChar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/swordOffer/Num1OfInteger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/swordOffer/ResortArrayToMinValue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/swordOffer/ReverseSentence.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/swordOffer/UrglyNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/tree/CompleteTreeNodes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/tree/PostTravel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/CreateSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/FindMinArrowShots.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/KClosest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ReversePairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/WaysToMakeFair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/greedy/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/CHONGZIS/Algorithm" />
+      </set>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/array/CreateSortedArray.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectId" id="1i34Y11dXFPfiKuAJGOTgI4C7SO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Array" />
+      <recent name="greedy" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.FindMinArrowShots">
+    <configuration name="CountRangeSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.CountRangeSum" />
+      <module name="AlgoriForWorl" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindMinArrowShots" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.FindMinArrowShots" />
+      <module name="AlgoriForWorl" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetSmallestLString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.GetSmallestLString" />
+      <module name="AlgoriForWorl" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReversePairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.ReversePairs" />
+      <module name="AlgoriForWorl" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WaysToMakeFair" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.WaysToMakeFair" />
+      <module name="AlgoriForWorl" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.CountRangeSum" />
+      <item itemvalue="Application.FindMinArrowShots" />
+      <item itemvalue="Application.GetSmallestLString" />
+      <item itemvalue="Application.ReversePairs" />
+      <item itemvalue="Application.WaysToMakeFair" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FindMinArrowShots" />
+        <item itemvalue="Application.WaysToMakeFair" />
+        <item itemvalue="Application.GetSmallestLString" />
+        <item itemvalue="Application.ReversePairs" />
+        <item itemvalue="Application.CountRangeSum" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ebdf4ee0-dfe2-4f6f-90e5-fe2fbe045a9e" name="Default" comment="" />
+      <created>1552198001416</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552198001416</updated>
+      <workItem from="1552198005994" duration="13980000" />
+      <workItem from="1552479812383" duration="5463000" />
+      <workItem from="1553097261486" duration="3224000" />
+    </task>
+    <task id="LOCAL-00001" summary="第一次">
+      <created>1552198236257</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1552198236258</updated>
+    </task>
+    <task id="LOCAL-00002" summary="IPO项目资金最大化算法">
+      <created>1552206201476</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1552206201476</updated>
+    </task>
+    <task id="LOCAL-00003" summary="剑指Offer-整数范围内1出现的次数">
+      <created>1552307854124</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1552307854124</updated>
+    </task>
+    <task id="LOCAL-00004" summary="剑指Offer-把数组排成最小数">
+      <created>1552310165396</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1552310165396</updated>
+    </task>
+    <task id="LOCAL-00005" summary="丑数">
+      <created>1552396280977</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1552396280977</updated>
+    </task>
+    <task id="LOCAL-00006" summary="字符串中第一个出现的只出现一次的字符">
+      <created>1552484505560</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1552484505560</updated>
+    </task>
+    <task id="LOCAL-00007" summary="翻转单词顺序列">
+      <created>1553616309560</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1553616309560</updated>
+    </task>
+    <task id="LOCAL-00008" summary="翻转单词顺序列">
+      <created>1601123022569</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1601123022569</updated>
+    </task>
+    <task id="LOCAL-00009" summary="若干个可重复时间区间包含的总时长">
+      <created>1601124103355</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1601124103355</updated>
+    </task>
+    <task id="LOCAL-00010" summary="添加题目和思路">
+      <created>1601125087357</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1601125087357</updated>
+    </task>
+    <task id="LOCAL-00011" summary="修改初始区间，设初始值[-1,-1],避免区间数为0报错">
+      <created>1601133207746</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1601133207746</updated>
+    </task>
+    <task id="LOCAL-00012" summary="知识点属于贪心">
+      <created>1601136051835</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1601136051835</updated>
+    </task>
+    <task id="LOCAL-00013" summary="知识点属于贪心和拓扑">
+      <created>1601224213906</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1601224213906</updated>
+    </task>
+    <task id="LOCAL-00014" summary="知识点属于贪心和拓扑">
+      <created>1601224356161</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1601224356161</updated>
+    </task>
+    <task id="LOCAL-00015" summary="完成代码">
+      <created>1601387970566</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1601387970566</updated>
+    </task>
+    <task id="LOCAL-00016" summary="链表类">
+      <created>1603031078446</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1603031078446</updated>
+    </task>
+    <task id="LOCAL-00017" summary="修改包名为小写">
+      <created>1603031133153</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1603031133154</updated>
+    </task>
+    <task id="LOCAL-00018" summary="改进方法实现">
+      <created>1603032217935</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1603032217935</updated>
+    </task>
+    <task id="LOCAL-00019" summary="增加双指针解法">
+      <created>1603032689439</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1603032689439</updated>
+    </task>
+    <task id="LOCAL-00020" summary="抽取树的节点类TreeNode到公共包">
+      <created>1603118818430</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1603118818430</updated>
+    </task>
+    <task id="LOCAL-00021" summary="完全二叉树的节点个数">
+      <created>1603118880989</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1603118880989</updated>
+    </task>
+    <task id="LOCAL-00022" summary="重排列链表,与往常数组不同的是，在list上操作left和right">
+      <created>1603207219809</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1603207219809</updated>
+    </task>
+    <task id="LOCAL-00023" summary="新的解法，速度提升了些">
+      <created>1603209448802</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1603209448802</updated>
+    </task>
+    <task id="LOCAL-00024" summary="长按输入">
+      <created>1603292796683</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1603292796683</updated>
+    </task>
+    <task id="LOCAL-00025" summary="长按输入优解">
+      <created>1603293675265</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1603293675265</updated>
+    </task>
+    <task id="LOCAL-00026" summary="划分字符串区间">
+      <created>1603381734333</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1603381734333</updated>
+    </task>
+    <task id="LOCAL-00027" summary="空间复杂度o(1)判断回文链表">
+      <created>1603469008791</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1603469008791</updated>
+    </task>
+    <task id="LOCAL-00028" summary="数组中有多少小于当前数字的数字">
+      <created>1603725781133</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1603725781133</updated>
+    </task>
+    <task id="LOCAL-00029" summary="第 214 场周赛">
+      <created>1604937995842</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1604937995842</updated>
+    </task>
+    <task id="LOCAL-00030" summary="根据身高重建队列&#10;知识点：二维数组排序">
+      <created>1605543540177</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1605543540177</updated>
+    </task>
+    <task id="LOCAL-00031" summary="具有给定数值的最小字符串&#10;知识点：贪心 或者 DFS">
+      <created>1606036467954</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1606036467954</updated>
+    </task>
+    <task id="LOCAL-00032" summary="区间和的个数&#10;知识点：归并排序，数组">
+      <created>1606037099938</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1606037099938</updated>
+    </task>
+    <task id="LOCAL-00033" summary="进入stash缓存区">
+      <created>1609079565094</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1609079565094</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Revert &quot;进入stash缓存区&quot;&#10;&#10;This reverts commit 1d525429">
+      <created>1609080235985</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1609080235985</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="22667000" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="若干个可重复时间区间包含的总时长" />
+    <MESSAGE value="添加题目和思路" />
+    <MESSAGE value="修改初始区间，设初始值[-1,-1],避免区间数为0报错" />
+    <MESSAGE value="知识点属于贪心" />
+    <MESSAGE value="知识点属于贪心和拓扑" />
+    <MESSAGE value="完成代码" />
+    <MESSAGE value="链表类" />
+    <MESSAGE value="修改包名为小写" />
+    <MESSAGE value="改进方法实现" />
+    <MESSAGE value="增加双指针解法" />
+    <MESSAGE value="抽取树的节点类TreeNode到公共包" />
+    <MESSAGE value="完全二叉树的节点个数" />
+    <MESSAGE value="重排列链表,与往常数组不同的是，在list上操作left和right" />
+    <MESSAGE value="新的解法，速度提升了些" />
+    <MESSAGE value="长按输入" />
+    <MESSAGE value="长按输入优解" />
+    <MESSAGE value="划分字符串区间" />
+    <MESSAGE value="空间复杂度o(1)判断回文链表" />
+    <MESSAGE value="数组中有多少小于当前数字的数字" />
+    <MESSAGE value="第 214 场周赛" />
+    <MESSAGE value="根据身高重建队列&#10;知识点：二维数组排序" />
+    <MESSAGE value="具有给定数值的最小字符串&#10;知识点：贪心 或者 DFS" />
+    <MESSAGE value="区间和的个数&#10;知识点：归并排序，数组" />
+    <MESSAGE value="进入stash缓存区" />
+    <MESSAGE value="Revert &quot;进入stash缓存区&quot;&#10;&#10;This reverts commit 1d525429" />
+    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;进入stash缓存区&quot;&#10;&#10;This reverts commit 1d525429" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1155" y="-13" key="#com.intellij.ide.util.MemberChooser" timestamp="1604805726717">
+      <screen x="-1920" y="-243" width="1920" height="1050" />
+    </state>
+    <state x="-1155" y="-13" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738/-1920.-243.1920.1050@-1920.-243.1920.1050" timestamp="1604805726717" />
+    <state x="305" y="0" key="CommitChangelistDialog2" timestamp="1609080233804">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="305" y="0" key="CommitChangelistDialog2/0.0.1366.738/-1920.-243.1920.1050@0.0.1366.738" timestamp="1609080233804" />
+    <state x="92" y="92" width="1182" height="554" key="DiffContextDialog" timestamp="1609080301803">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="92" y="92" width="1182" height="554" key="DiffContextDialog/0.0.1366.738/-1920.-243.1920.1050@0.0.1366.738" timestamp="1609080301803" />
+    <state width="1877" height="164" key="GridCell.Tab.0.bottom" timestamp="1606150442383">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1320" height="187" key="GridCell.Tab.0.bottom/0.0.1366.738/-1920.-243.1920.1050@-1920.-243.1920.1050" timestamp="1606041533388" />
+    <state width="1323" height="178" key="GridCell.Tab.0.bottom/0.0.1366.738/-1920.-243.1920.1050@0.0.1366.738" timestamp="1605965437735" />
+    <state width="1323" height="204" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1604501904195" />
+    <state width="1877" height="164" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1606150442383" />
+    <state width="1877" height="164" key="GridCell.Tab.0.center" timestamp="1606150442383">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1320" height="187" key="GridCell.Tab.0.center/0.0.1366.738/-1920.-243.1920.1050@-1920.-243.1920.1050" timestamp="1606041533388" />
+    <state width="1323" height="178" key="GridCell.Tab.0.center/0.0.1366.738/-1920.-243.1920.1050@0.0.1366.738" timestamp="1605965437735" />
+    <state width="1323" height="204" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1604501904195" />
+    <state width="1877" height="164" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1606150442383" />
+    <state width="1877" height="164" key="GridCell.Tab.0.left" timestamp="1606150442383">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1320" height="187" key="GridCell.Tab.0.left/0.0.1366.738/-1920.-243.1920.1050@-1920.-243.1920.1050" timestamp="1606041533387" />
+    <state width="1323" height="178" key="GridCell.Tab.0.left/0.0.1366.738/-1920.-243.1920.1050@0.0.1366.738" timestamp="1605965437735" />
+    <state width="1323" height="204" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1604501904195" />
+    <state width="1877" height="164" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1606150442383" />
+    <state width="1877" height="164" key="GridCell.Tab.0.right" timestamp="1606150442383">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1320" height="187" key="GridCell.Tab.0.right/0.0.1366.738/-1920.-243.1920.1050@-1920.-243.1920.1050" timestamp="1606041533388" />
+    <state width="1323" height="178" key="GridCell.Tab.0.right/0.0.1366.738/-1920.-243.1920.1050@0.0.1366.738" timestamp="1605965437735" />
+    <state width="1323" height="204" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1604501904195" />
+    <state width="1877" height="164" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1606150442383" />
+    <state width="1877" height="344" key="GridCell.Tab.1.bottom" timestamp="1606150442376">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1320" height="187" key="GridCell.Tab.1.bottom/0.0.1366.738/-1920.-243.1920.1050@-1920.-243.1920.1050" timestamp="1606041533389" />
+    <state width="1323" height="178" key="GridCell.Tab.1.bottom/0.0.1366.738/-1920.-243.1920.1050@0.0.1366.738" timestamp="1605965438444" />
+    <state width="1323" height="204" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1604501904585" />
+    <state width="1877" height="344" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1606150442376" />
+    <state width="1877" height="344" key="GridCell.Tab.1.center" timestamp="1606150442376">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1320" height="187" key="GridCell.Tab.1.center/0.0.1366.738/-1920.-243.1920.1050@-1920.-243.1920.1050" timestamp="1606041533388" />
+    <state width="1323" height="178" key="GridCell.Tab.1.center/0.0.1366.738/-1920.-243.1920.1050@0.0.1366.738" timestamp="1605965438444" />
+    <state width="1323" height="204" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1604501904585" />
+    <state width="1877" height="344" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1606150442376" />
+    <state width="1877" height="344" key="GridCell.Tab.1.left" timestamp="1606150442376">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1320" height="187" key="GridCell.Tab.1.left/0.0.1366.738/-1920.-243.1920.1050@-1920.-243.1920.1050" timestamp="1606041533388" />
+    <state width="1323" height="178" key="GridCell.Tab.1.left/0.0.1366.738/-1920.-243.1920.1050@0.0.1366.738" timestamp="1605965438444" />
+    <state width="1323" height="204" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1604501904585" />
+    <state width="1877" height="344" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1606150442376" />
+    <state width="1877" height="344" key="GridCell.Tab.1.right" timestamp="1606150442376">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1320" height="187" key="GridCell.Tab.1.right/0.0.1366.738/-1920.-243.1920.1050@-1920.-243.1920.1050" timestamp="1606041533389" />
+    <state width="1323" height="178" key="GridCell.Tab.1.right/0.0.1366.738/-1920.-243.1920.1050@0.0.1366.738" timestamp="1605965438444" />
+    <state width="1323" height="204" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1604501904585" />
+    <state width="1877" height="344" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1606150442376" />
+    <state x="468" y="70" key="RollbackChangesDialog" timestamp="1601224332765">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="468" y="70" key="RollbackChangesDialog/0.0.1366.738@0.0.1366.738" timestamp="1601224332765" />
+    <state x="387" y="145" key="Vcs.Push.Dialog.v2" timestamp="1606037103058">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1603725782976" />
+    <state x="387" y="145" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1606037103058" />
+    <state x="690" y="273" key="extract.method.dialog" timestamp="1604936963586">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="690" y="273" key="extract.method.dialog/0.0.1920.1050@0.0.1920.1050" timestamp="1604936963586" />
+    <state x="0" y="0" width="596" height="738" key="find.popup" timestamp="1603554248664">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="0" y="0" width="596" height="738" key="find.popup/0.0.1366.738@0.0.1366.738" timestamp="1603554248664" />
+    <state x="1053" y="346" width="672" height="678" key="search.everywhere.popup" timestamp="1606038044185">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-867" y="103" width="672" height="678" key="search.everywhere.popup/0.0.1366.738/-1920.-243.1920.1050@-1920.-243.1920.1050" timestamp="1606014050574" />
+    <state x="1053" y="346" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1606038044185" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/DeduplicationInterval.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/greedy/ArrangeMultiTaskSequence.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/greedy/ArrangeMultiTaskSequence.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/greedy/ArrangeMultiTaskSequence.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/greedy/ArrangeMultiTaskSequence.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/greedy/ArrangeMultiTaskSequence.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/greedy/ArrangeMultiTaskSequence.java</url>
+          <line>75</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/string/LongPrintInput.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/string/LongPrintInput.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/string/LongPrintInput.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/string/LongPrintInput.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/string/LongPrintInput.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/string/LongPrintInput.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/string/LongPrintInput.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/string/LongPrintInput.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/string/LongPrintInput.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/string/LongPrintInput.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/string/PartitionLabels.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/string/PartitionLabels.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/string/PartitionLabels.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/string/PartitionLabels.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/string/PartitionLabels.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/string/PartitionLabels.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/string/PartitionLabels.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/likedlist/IsPalindrome.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/likedlist/IsPalindrome.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/InsertInterval.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/InsertInterval.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/InsertInterval.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/InsertInterval.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/InsertInterval.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/InsertInterval.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/InsertInterval.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Completion/MaximumGenerated.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Completion/MinDeletions.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Completion/MinDeletions.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Completion/MaxProfit.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Completion/MaxProfit.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Completion/MaxProfit.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Completion/MaxProfit.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Completion/MaxProfit.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Completion/MaxProfit.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Completion/MaxProfit.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Completion/MaxProfit.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Completion/MaxProfit.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Completion/MaxProfit.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Completion/MaxProfit.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Completion/MaxProfit.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Completion/MaxProfit.java</url>
+          <line>88</line>
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Completion/MaxProfit.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Completion/MaxProfit.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Completion/MaxProfit.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Completion/MaxProfit.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/ReconstructQueue.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/ReconstructQueue.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/ReconstructQueue.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/CountRangeSum.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="135" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/CountRangeSum.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="158" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/CountRangeSum.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="159" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/CountRangeSum.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="160" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/CountRangeSum.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="161" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/CountRangeSum.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="162" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/ReversePairs.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="164" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/ReversePairs.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="165" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/ReversePairs.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="166" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/ReversePairs.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="192" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/ReversePairs.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="194" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/ReversePairs.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="197" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/ReversePairs.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="198" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/ReversePairs.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="199" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/ReversePairs.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="200" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/string/GetSmallestLString.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="201" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/string/GetSmallestLString.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="202" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/string/GetSmallestLString.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="203" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/string/GetSmallestLString.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="205" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/string/GetSmallestLString.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="206" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/string/GetSmallestLString.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="207" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/string/GetSmallestLString.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="208" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/string/GetSmallestLString.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="209" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/string/GetSmallestLString.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="210" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/string/GetSmallestLString.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="211" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/string/GetSmallestLString.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="213" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/string/GetSmallestLString.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="214" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/string/GetSmallestLString.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="215" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/string/GetSmallestLString.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="216" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/WaysToMakeFair.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="217" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/WaysToMakeFair.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="218" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/WaysToMakeFair.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="221" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/WaysToMakeFair.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="222" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/WaysToMakeFair.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="224" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/WaysToMakeFair.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="225" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/WaysToMakeFair.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="226" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/WaysToMakeFair.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="227" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/WaysToMakeFair.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="228" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/WaysToMakeFair.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="229" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/WaysToMakeFair.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="230" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/WaysToMakeFair.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="231" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/FindMinArrowShots.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="232" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/FindMinArrowShots.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="233" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/FindMinArrowShots.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="234" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/FindMinArrowShots.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="235" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/FindMinArrowShots.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="236" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/FindMinArrowShots.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="237" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/FindMinArrowShots.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="239" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/FindMinArrowShots.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="240" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/FindMinArrowShots.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="241" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/FindMinArrowShots.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="242" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/FindMinArrowShots.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="243" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/FindMinArrowShots.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="244" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/FindMinArrowShots.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="246" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="pre.next" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

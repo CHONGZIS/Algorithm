@@ -19,56 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ebdf4ee0-dfe2-4f6f-90e5-fe2fbe045a9e" name="Default" comment="进入stash缓存区">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/Completion/MaxProfit.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/Completion/MaximumGenerated.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/Completion/MinDeletions.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/array/CountRangeSum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/array/CreateSortedArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/array/DeduplicationInterval$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/array/DeduplicationInterval.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/array/FindMinArrowShots.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/array/InsertInterval.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/array/KClosest$Point.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/array/KClosest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/array/Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/array/ReconstructQueue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/array/ReversePairs.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/array/SmallerNumbersThanCurrent.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/array/WaysToMakeFair.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/commonclass/ListNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/commonclass/TreeNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/greedy/ArrangeMultiTaskSequence$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/greedy/ArrangeMultiTaskSequence$Task.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/greedy/ArrangeMultiTaskSequence.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/greedy/IPO$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/greedy/IPO$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/greedy/IPO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/greedy/LessMoney$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/greedy/LessMoney$MaxHeapComparator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/greedy/LessMoney.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/greedy/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/likedlist/IsPalindrome.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/likedlist/ReArrangeLikedList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/likedlist/RemoveNthFromEnd.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/string/GetSmallestLString.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/string/LongPrintInput.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/string/PartitionLabels.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/swordOffer/FirstUniqueChar.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/swordOffer/Num1OfInteger.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/swordOffer/ResortArrayToMinValue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/swordOffer/ReverseSentence.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/swordOffer/UrglyNumber.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/tree/CompleteTreeNodes.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/tree/PostTravel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/CreateSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/FindMinArrowShots.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/KClosest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/ReversePairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/WaysToMakeFair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/greedy/Main.java" afterDir="false" />
+    <list default="true" id="ebdf4ee0-dfe2-4f6f-90e5-fe2fbe045a9e" name="Default" comment="一次提交">
+      <change afterPath="$PROJECT_DIR$/src/array/MaxProfit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/RemoveStones.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgoriForWorl/array/ReconstructQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgoriForWorl/array/ReconstructQueue.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,21 +79,7 @@
       <recent name="greedy" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FindMinArrowShots">
-    <configuration name="CountRangeSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.CountRangeSum" />
-      <module name="AlgoriForWorl" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.RemoveStones">
     <configuration name="FindMinArrowShots" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="array.FindMinArrowShots" />
       <module name="AlgoriForWorl" />
@@ -167,8 +108,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReversePairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.ReversePairs" />
+    <configuration name="MaxProfit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.MaxProfit" />
+      <module name="AlgoriForWorl" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RemoveStones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.RemoveStones" />
       <module name="AlgoriForWorl" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -218,19 +173,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CountRangeSum" />
       <item itemvalue="Application.FindMinArrowShots" />
       <item itemvalue="Application.GetSmallestLString" />
-      <item itemvalue="Application.ReversePairs" />
       <item itemvalue="Application.WaysToMakeFair" />
+      <item itemvalue="Application.MaxProfit" />
+      <item itemvalue="Application.RemoveStones" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RemoveStones" />
+        <item itemvalue="Application.MaxProfit" />
         <item itemvalue="Application.FindMinArrowShots" />
         <item itemvalue="Application.WaysToMakeFair" />
         <item itemvalue="Application.GetSmallestLString" />
-        <item itemvalue="Application.ReversePairs" />
-        <item itemvalue="Application.CountRangeSum" />
       </list>
     </recent_temporary>
   </component>
@@ -487,7 +442,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609080235985</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="一次提交">
+      <created>1610171161416</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1610171161416</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -509,7 +471,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="若干个可重复时间区间包含的总时长" />
     <MESSAGE value="添加题目和思路" />
     <MESSAGE value="修改初始区间，设初始值[-1,-1],避免区间数为0报错" />
     <MESSAGE value="知识点属于贪心" />
@@ -534,7 +495,8 @@
     <MESSAGE value="区间和的个数&#10;知识点：归并排序，数组" />
     <MESSAGE value="进入stash缓存区" />
     <MESSAGE value="Revert &quot;进入stash缓存区&quot;&#10;&#10;This reverts commit 1d525429" />
-    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;进入stash缓存区&quot;&#10;&#10;This reverts commit 1d525429" />
+    <MESSAGE value="一次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="一次提交" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1155" y="-13" key="#com.intellij.ide.util.MemberChooser" timestamp="1604805726717">
@@ -549,69 +511,66 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="92" y="92" width="1182" height="554" key="DiffContextDialog/0.0.1366.738/-1920.-243.1920.1050@0.0.1366.738" timestamp="1609080301803" />
-    <state width="1877" height="164" key="GridCell.Tab.0.bottom" timestamp="1606150442383">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state width="1320" height="187" key="GridCell.Tab.0.bottom/0.0.1366.738/-1920.-243.1920.1050@-1920.-243.1920.1050" timestamp="1606041533388" />
-    <state width="1323" height="178" key="GridCell.Tab.0.bottom/0.0.1366.738/-1920.-243.1920.1050@0.0.1366.738" timestamp="1605965437735" />
-    <state width="1323" height="204" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1604501904195" />
-    <state width="1877" height="164" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1606150442383" />
-    <state width="1877" height="164" key="GridCell.Tab.0.center" timestamp="1606150442383">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state width="1320" height="187" key="GridCell.Tab.0.center/0.0.1366.738/-1920.-243.1920.1050@-1920.-243.1920.1050" timestamp="1606041533388" />
-    <state width="1323" height="178" key="GridCell.Tab.0.center/0.0.1366.738/-1920.-243.1920.1050@0.0.1366.738" timestamp="1605965437735" />
-    <state width="1323" height="204" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1604501904195" />
-    <state width="1877" height="164" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1606150442383" />
-    <state width="1877" height="164" key="GridCell.Tab.0.left" timestamp="1606150442383">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state width="1320" height="187" key="GridCell.Tab.0.left/0.0.1366.738/-1920.-243.1920.1050@-1920.-243.1920.1050" timestamp="1606041533387" />
-    <state width="1323" height="178" key="GridCell.Tab.0.left/0.0.1366.738/-1920.-243.1920.1050@0.0.1366.738" timestamp="1605965437735" />
-    <state width="1323" height="204" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1604501904195" />
-    <state width="1877" height="164" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1606150442383" />
-    <state width="1877" height="164" key="GridCell.Tab.0.right" timestamp="1606150442383">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state width="1320" height="187" key="GridCell.Tab.0.right/0.0.1366.738/-1920.-243.1920.1050@-1920.-243.1920.1050" timestamp="1606041533388" />
-    <state width="1323" height="178" key="GridCell.Tab.0.right/0.0.1366.738/-1920.-243.1920.1050@0.0.1366.738" timestamp="1605965437735" />
-    <state width="1323" height="204" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1604501904195" />
-    <state width="1877" height="164" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1606150442383" />
-    <state width="1877" height="344" key="GridCell.Tab.1.bottom" timestamp="1606150442376">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state width="1320" height="187" key="GridCell.Tab.1.bottom/0.0.1366.738/-1920.-243.1920.1050@-1920.-243.1920.1050" timestamp="1606041533389" />
-    <state width="1323" height="178" key="GridCell.Tab.1.bottom/0.0.1366.738/-1920.-243.1920.1050@0.0.1366.738" timestamp="1605965438444" />
-    <state width="1323" height="204" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1604501904585" />
-    <state width="1877" height="344" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1606150442376" />
-    <state width="1877" height="344" key="GridCell.Tab.1.center" timestamp="1606150442376">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state width="1320" height="187" key="GridCell.Tab.1.center/0.0.1366.738/-1920.-243.1920.1050@-1920.-243.1920.1050" timestamp="1606041533388" />
-    <state width="1323" height="178" key="GridCell.Tab.1.center/0.0.1366.738/-1920.-243.1920.1050@0.0.1366.738" timestamp="1605965438444" />
-    <state width="1323" height="204" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1604501904585" />
-    <state width="1877" height="344" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1606150442376" />
-    <state width="1877" height="344" key="GridCell.Tab.1.left" timestamp="1606150442376">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state width="1320" height="187" key="GridCell.Tab.1.left/0.0.1366.738/-1920.-243.1920.1050@-1920.-243.1920.1050" timestamp="1606041533388" />
-    <state width="1323" height="178" key="GridCell.Tab.1.left/0.0.1366.738/-1920.-243.1920.1050@0.0.1366.738" timestamp="1605965438444" />
-    <state width="1323" height="204" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1604501904585" />
-    <state width="1877" height="344" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1606150442376" />
-    <state width="1877" height="344" key="GridCell.Tab.1.right" timestamp="1606150442376">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state width="1320" height="187" key="GridCell.Tab.1.right/0.0.1366.738/-1920.-243.1920.1050@-1920.-243.1920.1050" timestamp="1606041533389" />
-    <state width="1323" height="178" key="GridCell.Tab.1.right/0.0.1366.738/-1920.-243.1920.1050@0.0.1366.738" timestamp="1605965438444" />
-    <state width="1323" height="204" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1604501904585" />
-    <state width="1877" height="344" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1606150442376" />
-    <state x="468" y="70" key="RollbackChangesDialog" timestamp="1601224332765">
+    <state width="1323" height="126" key="GridCell.Tab.0.bottom" timestamp="1610721077197">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="468" y="70" key="RollbackChangesDialog/0.0.1366.738@0.0.1366.738" timestamp="1601224332765" />
-    <state x="387" y="145" key="Vcs.Push.Dialog.v2" timestamp="1606037103058">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state width="1320" height="187" key="GridCell.Tab.0.bottom/0.0.1366.738/-1920.-243.1920.1050@-1920.-243.1920.1050" timestamp="1606041533388" />
+    <state width="1323" height="126" key="GridCell.Tab.0.bottom/0.0.1366.738/-1920.-243.1920.1050@0.0.1366.738" timestamp="1610721077197" />
+    <state width="1323" height="204" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1604501904195" />
+    <state width="1877" height="164" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1606150442383" />
+    <state width="1323" height="126" key="GridCell.Tab.0.center" timestamp="1610721077197">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
+    <state width="1320" height="187" key="GridCell.Tab.0.center/0.0.1366.738/-1920.-243.1920.1050@-1920.-243.1920.1050" timestamp="1606041533388" />
+    <state width="1323" height="126" key="GridCell.Tab.0.center/0.0.1366.738/-1920.-243.1920.1050@0.0.1366.738" timestamp="1610721077197" />
+    <state width="1323" height="204" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1604501904195" />
+    <state width="1877" height="164" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1606150442383" />
+    <state width="1323" height="126" key="GridCell.Tab.0.left" timestamp="1610721077197">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1320" height="187" key="GridCell.Tab.0.left/0.0.1366.738/-1920.-243.1920.1050@-1920.-243.1920.1050" timestamp="1606041533387" />
+    <state width="1323" height="126" key="GridCell.Tab.0.left/0.0.1366.738/-1920.-243.1920.1050@0.0.1366.738" timestamp="1610721077197" />
+    <state width="1323" height="204" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1604501904195" />
+    <state width="1877" height="164" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1606150442383" />
+    <state width="1323" height="126" key="GridCell.Tab.0.right" timestamp="1610721077197">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1320" height="187" key="GridCell.Tab.0.right/0.0.1366.738/-1920.-243.1920.1050@-1920.-243.1920.1050" timestamp="1606041533388" />
+    <state width="1323" height="126" key="GridCell.Tab.0.right/0.0.1366.738/-1920.-243.1920.1050@0.0.1366.738" timestamp="1610721077197" />
+    <state width="1323" height="204" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1604501904195" />
+    <state width="1877" height="164" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1606150442383" />
+    <state width="1323" height="126" key="GridCell.Tab.1.bottom" timestamp="1610721077853">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1320" height="187" key="GridCell.Tab.1.bottom/0.0.1366.738/-1920.-243.1920.1050@-1920.-243.1920.1050" timestamp="1606041533389" />
+    <state width="1323" height="126" key="GridCell.Tab.1.bottom/0.0.1366.738/-1920.-243.1920.1050@0.0.1366.738" timestamp="1610721077853" />
+    <state width="1323" height="204" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1604501904585" />
+    <state width="1877" height="344" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1606150442376" />
+    <state width="1323" height="126" key="GridCell.Tab.1.center" timestamp="1610721077853">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1320" height="187" key="GridCell.Tab.1.center/0.0.1366.738/-1920.-243.1920.1050@-1920.-243.1920.1050" timestamp="1606041533388" />
+    <state width="1323" height="126" key="GridCell.Tab.1.center/0.0.1366.738/-1920.-243.1920.1050@0.0.1366.738" timestamp="1610721077853" />
+    <state width="1323" height="204" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1604501904585" />
+    <state width="1877" height="344" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1606150442376" />
+    <state width="1323" height="126" key="GridCell.Tab.1.left" timestamp="1610721077853">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1320" height="187" key="GridCell.Tab.1.left/0.0.1366.738/-1920.-243.1920.1050@-1920.-243.1920.1050" timestamp="1606041533388" />
+    <state width="1323" height="126" key="GridCell.Tab.1.left/0.0.1366.738/-1920.-243.1920.1050@0.0.1366.738" timestamp="1610721077853" />
+    <state width="1323" height="204" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1604501904585" />
+    <state width="1877" height="344" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1606150442376" />
+    <state width="1323" height="126" key="GridCell.Tab.1.right" timestamp="1610721077853">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1320" height="187" key="GridCell.Tab.1.right/0.0.1366.738/-1920.-243.1920.1050@-1920.-243.1920.1050" timestamp="1606041533389" />
+    <state width="1323" height="126" key="GridCell.Tab.1.right/0.0.1366.738/-1920.-243.1920.1050@0.0.1366.738" timestamp="1610721077853" />
+    <state width="1323" height="204" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1604501904585" />
+    <state width="1877" height="344" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1606150442376" />
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1610171177183">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738/-1920.-243.1920.1050@0.0.1366.738" timestamp="1610171177183" />
     <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1603725782976" />
     <state x="387" y="145" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1606037103058" />
     <state x="690" y="273" key="extract.method.dialog" timestamp="1604936963586">
@@ -1180,6 +1139,21 @@
           <url>file://$PROJECT_DIR$/src/array/FindMinArrowShots.java</url>
           <line>33</line>
           <option name="timeStamp" value="246" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/MaxProfit.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="247" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/RemoveStones.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="249" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/RemoveStones.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="250" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
